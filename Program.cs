@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Security.AccessControl;
 
-/*var km = 3;
+var km = 3;
 var bz = 60;
 var ms = 10;
 if (ms * km < bz)
@@ -11,7 +11,7 @@ if (ms * km < bz)
 else
 {
     Console.WriteLine("Gede bilmez");
-}*/
+}
 
 
 
@@ -19,7 +19,7 @@ else
 
 
 
-/*var s = 20;
+var s = 20;
 var m = 30;
 var l = 40;
 var min=0;
@@ -37,7 +37,7 @@ if(m<s&&s<l)
 {
     min = s + l;
     Console.WriteLine(min);
-}*/
+}
 
 
 
@@ -45,20 +45,20 @@ if(m<s&&s<l)
 
 
 
-/*var a = 10;
+var a = 10;
 var b = 20;
 var c = 30;
 var d = 40;
 var hasil = 1;
 hasil = a * b * c * d;
-Console.WriteLine(hasil);*/
+Console.WriteLine(hasil);
 
 
 
 //***********************************************************
 
 
-/*
+
 var a = 10;
 var b = 20;
 var c = 30;
@@ -73,4 +73,4 @@ if(b > c && b > a)
 if(c > a && c > b)
 {
     Console.WriteLine(c);
-}*/
+}
